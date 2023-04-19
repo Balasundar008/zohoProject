@@ -1,0 +1,83 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "SignUpPage",
+        "description": "",
+        "id": "user-can-create-the-zoho-id;signuppage",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 35113920400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user Launch The Url Of Application",
+            "match": {
+              "location": "StepDefinitionZoho.user_Launch_The_Url_Of_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 717999100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Enter The Email Id Into Email Field",
+            "match": {
+              "location": "StepDefinitionZoho.user_Enter_The_Email_Id_Into_Email_Field()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3122910200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Enter The Password Into Password Field",
+            "match": {
+              "location": "StepDefinitionZoho.user_Enter_The_Password_Into_Password_Field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3146273600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user Click The Checkbox For Agree The Terms and Condition",
+            "match": {
+              "location": "StepDefinitionZoho.user_Click_The_Checkbox_For_Agree_The_Terms_and_Condition()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4942697700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user Click The button Of SignUp For Free",
+            "match": {
+              "location": "StepDefinitionZoho.user_Click_The_button_Of_SignUp_For_Free()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "User Can Create The Zoho Id",
+    "description": "",
+    "id": "user-can-create-the-zoho-id",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/feature/Zoho.feature",
+    "tags": []
+  }
+]

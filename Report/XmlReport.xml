@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="47.047939">
+    <testcase classname="User Can Create The Zoho Id" name="SignUpPage" time="47.047939">
+        <system-out><![CDATA[Given user Launch The Url Of Application....................................passed
+When user Enter The Email Id Into Email Field...............................passed
+And user Enter The Password Into Password Field.............................passed
+And user Click The Checkbox For Agree The Terms and Condition...............passed
+And user Click The button Of SignUp For Free................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
